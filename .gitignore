@@ -1,0 +1,21 @@
+# ===== Java =====
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+replay_pid*
+*.log
+
+# ===== Build output =====
+out/
+build/
+target/
+
+# ===== IntelliJ / JetBrains =====
+.idea/
+*.iml
+
+# ===== OS junk =====
+.DS_Store
+Thumbs.db
